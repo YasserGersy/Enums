@@ -1,0 +1,5 @@
+struts2-blank
+struts2-rest-showcase
+struts2-mailreader
+struts2-showcase
+struts2-portlet
