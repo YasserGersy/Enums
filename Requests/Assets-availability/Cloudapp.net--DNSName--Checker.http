@@ -1,0 +1,16 @@
+POST /subscriptions/87ffd4b8-14b3-4ea0-a83f-b2773092b122/providers/Microsoft.ClassicCompute/checkDomainNameAvailability?api-version=2015-06-01 HTTP/1.1
+Host: management.azure.com
+Accept-Encoding: deflate, gzip
+Sec-Fetch-Mode: cors
+X-Requested-from-page: https://portal.azure.com/?quickstart=true#create/Microsoft.CloudService
+Origin: https://portal.azure.com
+Accept-Language: en
+Authorization: Bearer XXXXXXX
+x-ms-effective-locale: en.en-us
+Content-Type: application/json
+Accept: */*
+x-ms-client-request-id: 4f9bcb82-0094-4b13-9edd-feb5c538c004
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+Content-Length: 29
+
+{"name":"Waws-prod-dm1-01x7"}
