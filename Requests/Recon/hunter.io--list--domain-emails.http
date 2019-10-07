@@ -1,0 +1,8 @@
+GET /v2/domain-search?domain=uber.com&api_key=XXXXX&limit=100&type=generic HTTP/1.1
+Host: api.hunter.io
+Accept-Encoding: gzip, deflate
+Accept: */*
+Accept-Language: en
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)
+Connection: close
+
