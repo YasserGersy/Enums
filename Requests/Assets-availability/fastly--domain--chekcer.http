@@ -1,0 +1,12 @@
+POST /service/0zSpU2m7Oiz4gehuVpnJTh/version/1/domain HTTP/1.1
+Host: api.fastly.com
+Sec-Fetch-Mode: cors
+Origin: https://manage.fastly.com
+fastly-key: XXXXXXXXXXXXXXXXXXX
+User-Agent: Mozilla/5.0 
+Content-Type: application/json; charset=UTF-8
+Accept: application/vnd.api+json;q=1.0,application/json;q=0.9
+Referer: https://manage.fastly.com/
+Content-Length: 65
+
+{"name":"api.domain.co","comment":"something"}
