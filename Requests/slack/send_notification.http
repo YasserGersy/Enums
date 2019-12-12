@@ -1,0 +1,7 @@
+POST /services/{{YOUR-TOKEN}} HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Host: hooks.slack.com
+Content-Length: 71
+Connection: close
+
+payload={"channel":null,"username":"any","text":"Hello slack"}
