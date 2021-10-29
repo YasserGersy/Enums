@@ -1,0 +1,415 @@
+
+.APK
+Android Package File
+.XBE
+Xbox Executable File
+.AHK
+AutoHotkey Script
+.RUN
+Linux Executable File
+.CMD
+Windows Command File
+.JAR
+Java Archive File
+.IPA
+iOS Application
+.EXE
+Windows Executable File
+.0XE
+F-Secure Renamed Virus File
+.BIN
+Unix Executable File
+.WORKFLOW
+Automator Workflow
+.8CK
+TI-84 Plus C Silver Edition Application File
+.BIN
+Generic Binary Executable File
+.ELF
+Nintendo Wii Game File
+.XAP
+Silverlight Application Package
+.AIR
+Adobe AIR Installation Package
+.BAT
+DOS Batch File
+.GADGET
+Windows Gadget
+.AC
+Autoconf Script
+.APP
+macOS Application
+.SCR
+Script File
+.U3P
+U3 Smart Application
+.COM
+DOS Command File
+.OUT
+Compiled Executable File
+.WIDGET
+Microsoft Windows Mobile Widget
+.XLM
+Microsoft Excel Macro
+.PIF
+Program Information File
+.SCRIPT
+Generic Script File
+.GPE
+GP2X Video Game
+.73K
+TI-73 Application
+.CGI
+Common Gateway Interface Script
+.RXE
+Lego Mindstorms NXT Executable Program
+.SCB
+Scala Published Script
+.SCAR
+SCAR Script
+.COMMAND
+Terminal Command File
+.SK
+Skript File
+.PAF.EXE
+PortableApps.com Program File
+.XEX
+Xbox 360 Executable File
+.EX_
+Renamed Windows Executable File
+.TCP
+Tally Compiled Program File
+.EPK
+LG Firmware Package
+.EBS2
+E-Run 2.0 Script File
+.CELX
+Celestia Script
+.ACC
+GEM Accessory File
+.NEXE
+Chrome Native Client Executable
+.COFFEE
+CoffeeScript JavaScript File
+.FXP
+FoxPro Compiled Program
+.RFU
+Remote Firmware Update
+.ISU
+InstallShield Uninstaller Script
+.ACTION
+Automator Action
+.APPIMAGE
+Linux Software Package
+.ECF
+SageCRM Component File
+.89K
+TI-89 Application
+.HTA
+HTML Application
+.VXP
+Mobile Application File
+.RBF
+LEGO MINDSTORMS EV3 Robot Brick File
+.PLSC
+Messenger Plus! Live Script File
+.XBAP
+XAML Browser Application File
+.FAS
+Compiled Fast-Load AutoLISP File
+.ACTC
+Action(s) Collection File
+.ICD
+SafeDisc Encrypted Program
+.EX4
+MetaTrader 4 Program File
+.COF
+MPLAB COFF File
+.DLD
+EdLog Compiled Program
+.WS
+Windows Script
+.JS
+JScript Executable Script
+.EAR
+Java Enterprise Archive File
+.ACR
+ACRobot Script
+.PHAR
+PHP Archive
+.M3G
+Mobile 3D Graphics Program
+.VPM
+Vox Proxy Macro File
+.PS1
+Windows PowerShell Cmdlet File
+.X86_64
+64-bit Linux Executable File
+.MLX
+MATLAB Live Script
+.JSX
+ExtendScript Script File
+.A6P
+Authorware 6 Program
+.WSH
+Windows Script Host Settings
+.APPLESCRIPT
+AppleScript File
+.ZL9
+ZoneAlarm Quarantined EXE File
+.EX_
+Compressed Executable File
+.MCR
+3ds Max Macroscript File
+.VBS
+VBScript File
+.A7R
+Authorware 7 Runtime File
+.X86
+Linux Executable File
+.SERVER
+MySQL Server Script
+.DEK
+Eavesdropper Batch File
+.RPJ
+Real Pac Batch Job File
+.BA_
+Renamed BAT File
+.CACTION
+Automator Converter Action
+.PEX
+ProBoard Executable File
+.IIM
+iMacro Macro File
+.PYC
+Python Compiled File
+.JSF
+Java Script Command File
+.PLX
+Perl Executable File
+.WCM
+WordPerfect Macro
+.PWC
+PictureTaker File
+.VLX
+Compiled AutoLISP File
+.EXE1
+Renamed EXE File
+.MEL
+Maya Embedded Language Script
+.MS
+Maxwell Script
+.MM
+NeXtMidas Macro File
+.EXE
+PortableApps.com Application
+.EX5
+MetaTrader 5 Program File
+.PAF
+Portable Application Installer File
+.EBM
+EXTRA! Basic Macro
+.MCR
+Tecplot Macro
+.PRG
+Program File
+.HMS
+HostMonitor Script File
+.SCPT
+AppleScript Script File
+.E_E
+Renamed EXE File
+.SHB
+Windows Document Shortcut
+.OTM
+Outlook Macro File
+.FRS
+Flash Renamer Script
+.UVM
+UnitVM Executable File
+.VBSCRIPT
+Visual Basic Script
+.RGS
+Registry Script
+.MRC
+mIRC Script File
+.SPR
+FoxPro Generated Screen File
+.WIDGET
+Yahoo! Widget
+.CSH
+C Shell Script
+.WIZ
+Microsoft Wizard File
+.CYW
+Rbot.CYW Worm File
+.MXE
+Macro Express Playable Macro
+.FPI
+FPS Creator Intelligence Script
+.EBS
+E-Run 1.x Script
+.MRP
+Mythroad Platform File
+.GS
+Geosoft Script
+.SNAP
+Snap Application Package
+.OSX
+PowerPC Executable File
+.PYO
+Python Optimized Code
+.FAS
+QuickSilver Fast Save Lisp File
+.AZW2
+Kindle Active Content App File
+.SCT
+Windows Scriptlet
+.FKY
+FoxPro Macro
+.XQT
+SuperCalc Macro File
+.PRG
+GEM Application
+.ACTM
+AutoCAD Action Macro File
+.KIX
+KiXtart Script File
+.APP
+FoxPro Generated Application
+.SEED
+Linux Preseed File
+.VEXE
+Virus Executable File
+.ARSCRIPT
+ArtRage Script
+.TMS
+Telemate Script
+.ES
+SageCRM Script File
+.APP
+Symbian OS Application
+.CEL
+Celestia Script File
+.ROX
+Actuate Report Object Executable File
+.N
+Neko Bytecode File
+.VBE
+VBScript Encoded Script File
+.EZS
+EZ-R Stats Batch Script
+.TIAPP
+TiTanium App
+.THM
+Thermwood Macro File
+.BEAM
+Compiled Erlang File
+.UDF
+Microsoft Excel User-defined Function
+.WSF
+Windows Script File
+.KX
+KiXtart Tokenized Script File
+.WPK
+WordPerfect Macro
+.ESH
+Extended Shell Batch File
+.DMC
+Medical Manager Script
+.LS
+LightWave LScript File
+.XYS
+XYplorer Script File
+.RFS
+Reflection FTP Client Script
+.CHEAT
+Navi Cheatsheet
+.MHM
+Microsoft Hardware Macro
+.MAC
+Application Macro File
+.VDO
+Heathen Virus File
+.PRC
+Palm Resource Code File
+.WPM
+WordPerfect Macro File
+.SCA
+Scala Script File
+.MS
+3ds Max Script File
+.MSL
+Magick Scripting Language File
+.SCPTD
+AppleScript Script Bundle
+.S2A
+SEAL2 Application
+.SHORTCUT
+Apple Shortcuts Shortcut
+.JSE
+JScript Encoded File
+.QIT
+QIT Trojan Horse File
+.LO
+Interleaf Compiled Lisp File
+.RBX
+Rembo-C Compiled Script
+.DS
+TWAIN Data Source
+.MEM
+Macro Editor Macro
+.EBACMD
+EBA Command Center Data File
+.UPX
+Ultimate Packer for eXecutables File
+.MAM
+Microsoft Access Macro
+.DXL
+Rational DOORS Script
+.KSH
+Unix Korn Shell Script
+.EXOPC
+ExoPC Application
+.BTM
+4DOS Batch File
+.EHAM
+ExtraHAM Executable File
+.YGH
+YGH Trojan Executable
+.ASB
+Alphacam Stone VB Macro File
+.IPF
+SMS Installer Script
+.GPU
+GP2X Utility Program
+.SAPK
+SICK AppPool Application
+.MIO
+MioEngine Application File
+.SBS
+SPSS Script
+.ITA
+VTech InnoTab Application File
+.HPF
+HP9100A Program File
+.EZT
+EZT Malicious Worm File
+.STS
+#TASK Script File
+.HAM
+HAM Executable File
+.QPX
+FoxPro Compiled Query Program
+.GM9
+GodMode9 Script
+.PRG
+Commander X16 Program
+.SMM
+Ami Pro Macro
+.ORE
+Ore Executable File
+.NCL
+NirCmd Script File
+.PVD
+Instalit Script
