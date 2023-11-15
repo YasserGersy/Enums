@@ -6,10 +6,12 @@ authenticator_types
 authParams
 binding_code
 challenge_type
+client
 client_assertion
 client_assertion_type
 client_id
 client_secret
+compat
 connection
 device
 email
@@ -18,8 +20,10 @@ grant_type
 id_token
 id_token_hint
 impersonator_id
+iss
 logout_hint
 mfa_token
+nonce
 oob_channels
 oob_code
 organization
@@ -30,6 +34,7 @@ post_logout_redirect_uri
 protocol
 redirect_uri
 refresh_token
+response_mode
 response_type
 returnTo
 SAML_LOGOUT_REQUEST
@@ -37,6 +42,7 @@ scope
 send
 state
 target
+tenant
 ui_locales
 username
 wctx
