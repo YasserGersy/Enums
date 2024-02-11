@@ -1,0 +1,16 @@
+s3.synologyc2.net
+.myqcloud.com
+.dream.io
+storage.yandexcloud.net
+.cloud-object-storage.appdomain.cloud
+.cloudflarestorage.com
+.vultrobjects.com
+.aliyuncs.com
+.backblazeb2.com
+.blob.Core.WindowS.net
+.digitaloceanspaces.com
+.wasabisys.com
+.linodeobjects.com
+.firebaseio.com
+.amazonaws.com
+.oraclecloud.com
