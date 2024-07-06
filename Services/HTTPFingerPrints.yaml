@@ -1,0 +1,193 @@
+Magento: 'X-Magento'
+CheckPoint: '<title>Check Point SSL Network Extender'
+CheckPoint: 'skin/chkp/skin1/index.css'
+CheckPoint: 'Server: Check Point SVN foundation'
+CheckPoint: 'checkpoint.com/products/ssl_network_ext'
+Ivanti Connect Secure: <title>Ivanti Connect Secure
+GoogleDriveIntegration: 'https://www.googleapis.com/auth/drive'
+CDATA-Arc: '<title>CData Arc'
+CData-Connect: '<title>CData Connect'
+CData-Sync: '<title>CData Sync'
+CData-API-Server: '<title>CData API Server'
+geoserver: '/arcgis/home'
+geoserver: '/geoserver/index.html'
+geoserver: '<title>GeoServer'
+geoserver: '<a href="/geoserver/">/geoserver</a>'
+CDATA: 'x-cdata-login:'
+CDATA: '/login.rst'
+Cisco: '/+CSCOE+/'
+Apache-Tomcat: 'Apache Tomcat'
+PHP: 'X-Powered-By: PHP'
+PHP: 'PHPSESSID'
+MESBOOK: 'LOGO_MESBOOK'
+Sitecore: Sitecore
+Fortinet: 'top.location="/remote/login'
+KubeView: <title>KubeView
+Grafana: <title>Grafana
+Java-Serialization: 'application/x-java-serialized-object'
+Java-Serialization: 'javax.faces.ViewState'
+JMX: 'JBoss JMX Console'
+JBoss: JBoss
+SolarWinds: '/Orion/Login.aspx'
+SolarWinds: 'SolarWinds Orion'
+SolarWinds: 'SolarWinds-Logo.svg'
+SolarWinds: 'SolarWinds Worldwide'
+RabbitMQ: <title>RabbitMQ Management
+Jira: <title>Manage Filters - Jira
+Jenkins: <title>Dashboard [Jenkins]
+NextJs: '/_next/static/'
+AmazonS3: 'Server: AmazonS3'
+Jenkins: X-Jenkins
+Zendesk: Zendesk
+FrontPage: '<title> FrontPage Configuration Information' 
+Sidekiq: <title>Sidekiq
+Swagger-UI: <title>Swagger UI
+Pluto Portal: '<title>Pluto Portal'
+RocketMq: '<title>RocketMq-console'
+Cortex: '<title>Cortex Ingester Stats'
+SICOM: <title>SICOM
+ActiveMQ: '<title>Apache ActiveMQ'
+Cortex: '<title>Cortex'
+FreshDesk: <link class="ltr" rel="stylesheet" href="https://fassets.freshdesk.com/production/a/assets
+Jira: <meta name="application-name" content="JIRA" data-name="jira"
+ActiveMQ: <title>Apache ActiveMQ</title>
+ActiveMQ: Apache ActiveMQ!
+BucketTakeOver: NoSuchBucket
+ListableBucket: <ListAllMyBucketResult
+ListableBucket: <ListBucketResult
+Wordpress: '<meta name="generator" content="WordPress'
+x-amz-meta-s3cmd-attrs: x-amz-meta-s3cmd-attrs
+OpenCat: opencatsisopen
+Django admin panel: Log in | Django site admin
+RocketMq-console: <title>RocketMq-console
+Critix: _ctxstxt_NetscalerAAA
+Critix: _ctxstxt_NetscalerGateway
+Pluto: <title>Pluto Portal
+Grafana: <title>Grafana</title>
+RoundCube: roundcube_sessid
+RoundCube: Roundcube Webmail
+Drupal: 'X-Generator: Drupal'
+DirectoryListing: <title>Index of
+Telerik.Web.Ui: Telerik.Web.Ui
+Telerik.Progress: '/lib/progress/Telerik'
+Telerik.Report.Server: 'Telerik Report Server</title>'
+Telerik.Report.Server: 'window.telerikReportServer'
+Trello: X-Trello-Version
+Trello: X-Trello-Environment
+tarantool: tarantool
+Rack-cache: x-rack-cache
+GoogleSignInClientId: googleSignInClientId
+GoogleSignInClientId: googleClientID
+IIS: 'Internet information services'
+Zendesk: 'X-Zendesk-Origin-Server'
+squarespace: squarespace
+StatusPage: X-StatusPage-Version
+Discourse: X-Discourse-Route
+Shopify: X-Shopify-Stage
+Amz: x-amz
+EnvoyProxy: x-envoy-upstream-service-time
+GoogleCloud: X-Goog-Generation
+ReactApp: '/react/app.js'
+HighLight: 'highlight.js'
+jquery: 'jquery.min.js'
+InterCom: 'window.intercomSettings'
+Tenable: teachablecdn.com
+Django: 'Log in | Django site admin'
+Gitlab: 'X-Gitlab'
+Fortinet: 'try_ftm_push()'
+Ivanti Connect Secure: <title>Ivanti&#32;Connect
+Unclaimed.Heroku: 'herokucdn.com/error-pages/no-such-app.html'
+TakeOver.Wishpond: 'https://www.wishpond.com/404?campaign=true'
+TakeOver.Createsend: 'Double check the URL or <a href="mailto:help@createsend.com'
+TakeOver.Fastly: 'Fastly error: unknown domain'
+Unclaimed.GitHub: "There isn't a GitHub Pages site here"
+TakeOver.Zendesk: '<title>Help Center Closed | Zendesk</title>'
+TakeOver.Azure: '<title>Microsoft Azure Web App - Error 404</title>'
+Unclaimed.StatusPage: '<html><body>You are being <a href="https://www.statuspage.io">redirected'
+TakeOver.SimpleBooklet: "We can't find this <a href="https://simplebooklet.com"
+TakeOver: '"There is no app configured at that hostname'
+TakeOver: 'For root URLs (like http://example.com/) you must provide an index.html file'
+TakeOver: "There's nothing here"
+TakeOver: '<title>No such app</title>'
+TakeOver: "There's nothing here."
+TakeOver: "Whatever you were looking for doesn't currently exist at this address."
+TakeOver: 'this shop is currently unavailable.'
+TakeOver: 'Only one step left!'
+TakeOver: "You've Discovered A Missing Link. Our Apologies!"
+TakeOver: 'Please try again or try Desk.com free for 14 days.'
+TakeOver: 'Building a brand of your own?'
+TakeOver: 'to target URL: <a href="https://tictail.com'
+TakeOver: 'Start selling on Tictail.'
+TakeOver: 'Double check the URL'
+TakeOver: '<strong>Trying to access your account?</strong>'
+TakeOver: 'Better Status Communication'
+TakeOver: 'You are being <a href="https://www.statuspage.io">redirected'
+TakeOver: 'NoSuchBucket'
+TakeOver: 'The specified bucket does not exist' 
+TakeOver: 'The page you have requested does not exist'
+TakeOver: 'Domain is not configured'
+TakeOver: 'If you are an Acquia Cloud customer and expect to see your site at this address'
+TakeOver: 'Please check that this domain has been added to a service'
+TakeOver: 'The gods are wise'
+TakeOver: 'but do not know of the site which you seek'
+TakeOver: '<title>Help Center Closed | Zendesk</title>'
+TakeOver: 'This UserVoice subdomain is currently available!'
+TakeOver: 'The thing you were looking for is no longer here'
+TakeOver: 'redirect.feedpress.me'
+TakeOver: 'Repository not found'
+TakeOver: '<h1 class="headline"Uh oh. That page doesn't exist.</h1>'
+TakeOver: '<h1>Oops! We could&#8217;t find that page.</h1>'
+TakeOver: "Looks like you've traveled too far into cyberspace"
+TakeOver: 'Project doesnt exist... yet!'
+TakeOver: 'Domain has been assigned'
+TakeOver: 'Do you want to register'
+TakeOver: "Oops - We didn't find your site."
+TakeOver: "We could not find what you're looking for."
+TakeOver: 'No settings were found for this company:'
+TakeOver: "If you're moving your domain away from Cargo you must make this configuration through your registrar's DNS control panel."
+TakeOver: 'The feed has not been found.'
+TakeOver: 'project not found'
+TakeOver: 'Unrecognized domain <strong>'
+TakeOver: 'This page is reserved for artistic dogs.'
+TakeOver: "<h1 class="headline">Uh oh. That page doesn’t exist.</h1>"
+TakeOver: '<p class="description">The page you are looking for doesn't exist or has been moved.</p>'
+TakeOver: "<h1>The page you were looking for doesn't exist.</h1>"
+TakeOver: 'You may have mistyped the address or the page may have moved.'
+TakeOver: '<h1>Error 404: Page Not Found</h1>'
+TakeOver: "Oops.</h2><p class="text-muted text-tight">The page you're looking for doesn't exist."
+TakeOver: 'There is no portal here ... sending you back to Aha!'
+TakeOver: '<p class="bc-gallery-error-code">Error Code: 404</p>'
+TakeOver: '<h1>Oops! We couldn&#8217;t find that page.</h1>'
+TakeOver: 'alt="LIGHTTPD - fly light.'
+TakeOver: 'The site you are looking for could not be found.'
+TakeOver: 'If you need immediate assistance'
+TakeOver: 'please contact <a href="mailto:support@proposify.biz'
+TakeOver: 'With GetResponse Landing Pages'
+TakeOver: 'lead generation has never been easier'
+TakeOver: "Looks like you've traveled too far into cyberspace."
+TakeOver: 'is not a registered InCloud YouTrack.'
+TakeOver: '404 Web Site not found'
+TakeOver: '<strong>Trying to access your account'
+TakeOver: 'Use a personal domain name'
+TakeOver: 'project not foun'
+TakeOver: 'Your CNAME settings'
+TakeOver: 'The resource that you are attempting to access does not exist or you don't have the necessary permissions to view it'
+TakeOver: 'The feed has not been found'
+TakeOver: 'You can claim it now at'
+TakeOver: 'Publishing platform'
+TakeOver: "You're Almost There"
+TakeOver: 'this shop is currently unavailable'
+TakeOver: "There's nothing here"
+TakeOver: 'No settings were found for this company'
+TakeOver: 'Heroku | No such app'
+TakeOver: 'couldn&rsquo;t find the status page'
+TakeOver: 'No Such Accoun'
+TakeOver: '<title>Hosted Status Pages for Your Company</title>'
+TakeOver: 'data-html-name="Header Logo Link'
+TakeOver: "<title>Oops - We didn't find your site.</title>"
+TakeOver: 'class="MarketplaceHeader__tictailLogo'
+TakeOver: "Whatever you were looking for doesn't currently exist at this address"
+TakeOver: 'Domain mapping upgrade for this domain not found'
+TakeOver: 'but is not configured for an account on our platform'
+TakeOver: "The site you were looking for couldn't be found"
+TakeOver: "We Couldn't Find That Page Please try again"
