@@ -1,6 +1,8 @@
 Magento: 'X-Magento'
 Splunk: 'splunkweb_csrf_token'
+Splunk: 'Set-Cookie: splunkweb_uid'
 Splunk: 'Server: Splunkd'
+Splunk: '__splunkd_partials__'
 CheckPoint: '<title>Check Point SSL Network Extender'
 CheckPoint: 'skin/chkp/skin1/index.css'
 CheckPoint: 'Server: Check Point SVN foundation'
