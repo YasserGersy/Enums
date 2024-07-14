@@ -1,0 +1,13 @@
+struts-blank
+struts-cookbook
+struts-el-example
+struts-examples
+struts-faces-example
+struts-faces-example2
+struts-mailreader
+struts-scripting-mailreader
+struts2-blank
+struts2-rest-showcase
+struts2-mailreader
+struts2-showcase
+struts2-portlet
