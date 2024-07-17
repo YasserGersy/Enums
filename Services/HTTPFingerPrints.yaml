@@ -2,9 +2,21 @@ NetGear: 'WWW-Authenticate: Basic realm="NETGEAR'
 FortiExtender: '<title>FortiExtender'
 Microsoft-SharePoint: 'X-SharePointHealthScore:'
 Microsoft-SharePoint: 'MicrosoftSharePointTeamServices:'
+Wordpress-Eventon: 'wp-content/plugins/eventon'
+Wordpress-analytics-insights: '/wp-content/plugins/analytics-insights'
+Wordpress-travelpayouts: '/wp-content/plugins/travelpayouts'
+Wordpress-user-meta: '/wp-content/plugins/user-meta/'
+Wordpress-html5-video-player: 'wp-content/plugins/html5-video-player'
+wordpress-ultimate-member: '/wp-content/plugins/ultimate-member/'
+Smart-s210: '<title>Smart--管理平台</title>'
 Aspnet: 'X-Aspnet-Version'
+Rebuild: "Powered by <a target='_blank' href='https://getrebuild.com/'>"
 GoAnyWhere: 'alt="GoAnywhere Web Client"'
 GoAnyWhere: 'GoAnywhere.com/powered-by"'
+LikeShop: 'default\/backstage_logo.png'
+likeshop: '"pc/commonData"'
+Monitorr: '<meta name="description" content="Monitorr">'
+Ncast: '<title>高清智能录播系统'
 GitHub-Enterprise: '<title>GitHub Enterprise'
 ServiceNow: 'window.NOW.'
 SpiderFlow: '	<title>SpiderFlow'
@@ -106,8 +118,8 @@ Drupal: 'X-Generator: Drupal'
 DirectoryListing: <title>Index of
 Telerik.Web.Ui: Telerik.Web.Ui
 Telerik.Progress: '/lib/progress/Telerik'
-Telerik.Report.Server: 'Telerik Report Server'
-Telerik.Report.Server: 'window.telerikReportServer'
+Telerik.ReportServer: 'Telerik Report Server'
+Telerik.ReportServer: 'window.telerikReportServer'
 Trello: X-Trello-Version
 Trello: X-Trello-Environment
 tarantool: tarantool
