@@ -1,19 +1,32 @@
+NetGear: 'WWW-Authenticate: Basic realm="NETGEAR'
+FortiExtender: '<title>FortiExtender'
+Microsoft-SharePoint: 'X-SharePointHealthScore:'
+Microsoft-SharePoint: 'MicrosoftSharePointTeamServices:'
+Aspnet: 'X-Aspnet-Version'
+GoAnyWhere: 'alt="GoAnywhere Web Client"'
+GoAnyWhere: 'GoAnywhere.com/powered-by"'
+GitHub-Enterprise: '<title>GitHub Enterprise'
+ServiceNow: 'window.NOW.'
+SpiderFlow: '	<title>SpiderFlow'
+SpiderFlow: 'SPIDER_FLOW_VERSION'
+Gogs: 'Set-Cookie: i_like_gogits'
+Gogs: 'Gogs Version:'
 struts: 'struts.token.name'
 struts: '/sys/login/homePage.action'
 Magento: 'X-Magento'
 Splunk: 'splunkweb_csrf_token'
 Splunk: 'Set-Cookie: splunkweb_uid'
 Spring: 'spring-boot.actuator'
-Go-PProf: '<title>/debug/pprof/</title>'
+Go-PProf: '<title>/debug/pprof/'
 Splunk: 'Server: Splunkd'
 Splunk: '__splunkd_partials__'
 ServiceNow: '<title>ServiceNow'
 Citrix: 'Citrix Web PN Server'
 Citrix: 'X-Citrix-Application'
 Citrix: 'citrixCopyright'
-Citrix: '<title>Citrix Gateway</title>'
-Netscaler: '<TITLE>NetScaler Gateway</TITLE>'
-Apache-CloudStack: <title>Apache CloudStack</title>
+Citrix: '<title>Citrix Gateway'
+Netscaler: '<TITLE>NetScaler Gateway'
+Apache-CloudStack: '<title>Apache CloudStack'
 CheckPoint: '<title>Check Point SSL Network Extender'
 CheckPoint: 'skin/chkp/skin1/index.css'
 CheckPoint: 'Server: Check Point SVN foundation'
@@ -35,7 +48,7 @@ CDATA: 'x-cdata-login:'
 CDATA: '/login.rst'
 Cisco: '/+CSCOE+/'
 Java-Servlet: 'Set-Cookie: JSESSIONID'
-Cisco-Meeting: '<title>Cisco Meeting Server web app</title>'
+Cisco-Meeting: '<title>Cisco Meeting Server web app'
 jquery.Vuln: 'jquery-1.8.1.min.js'
 Apache-Tomcat: 'Apache Tomcat'
 PHP: 'X-Powered-By: PHP'
@@ -47,8 +60,8 @@ KubeView: <title>KubeView
 Grafana: <title>Grafana
 Java-Serialization: 'application/x-java-serialized-object'
 Java-Serialization: 'javax.faces.ViewState'
-Ruby: 'name="csrf-param" content="authenticity_token"'
-Ruby: 'content="authenticity_token" name="csrf-param"'
+Ruby-on-Rails: 'name="csrf-param" content="authenticity_token"'
+Ruby-on-Rails: 'content="authenticity_token" name="csrf-param"'
 JMX: 'JBoss JMX Console'
 JBoss: JBoss
 SolarWinds: '/Orion/Login.aspx'
@@ -73,7 +86,7 @@ ActiveMQ: '<title>Apache ActiveMQ'
 Cortex: '<title>Cortex'
 FreshDesk: <link class="ltr" rel="stylesheet" href="https://fassets.freshdesk.com/production/a/assets
 Jira: <meta name="application-name" content="JIRA" data-name="jira"
-ActiveMQ: <title>Apache ActiveMQ</title>
+ActiveMQ: '<title>Apache ActiveMQ'
 ActiveMQ: Apache ActiveMQ!
 BucketTakeOver: NoSuchBucket
 ListableBucket: <ListAllMyBucketResult
@@ -86,14 +99,14 @@ RocketMq-console: <title>RocketMq-console
 Critix: _ctxstxt_NetscalerAAA
 Critix: _ctxstxt_NetscalerGateway
 Pluto: <title>Pluto Portal
-Grafana: <title>Grafana</title>
+Grafana: '<title>Grafana'
 RoundCube: roundcube_sessid
 RoundCube: Roundcube Webmail
 Drupal: 'X-Generator: Drupal'
 DirectoryListing: <title>Index of
 Telerik.Web.Ui: Telerik.Web.Ui
 Telerik.Progress: '/lib/progress/Telerik'
-Telerik.Report.Server: 'Telerik Report Server</title>'
+Telerik.Report.Server: 'Telerik Report Server'
 Telerik.Report.Server: 'window.telerikReportServer'
 Trello: X-Trello-Version
 Trello: X-Trello-Environment
@@ -125,14 +138,14 @@ TakeOver.Wishpond: 'https://www.wishpond.com/404?campaign=true'
 TakeOver.Createsend: 'Double check the URL or <a href="mailto:help@createsend.com'
 TakeOver.Fastly: 'Fastly error: unknown domain'
 Unclaimed.GitHub: "There isn't a GitHub Pages site here"
-TakeOver.Zendesk: '<title>Help Center Closed | Zendesk</title>'
-TakeOver.Azure: '<title>Microsoft Azure Web App - Error 404</title>'
+TakeOver.Zendesk: '<title>Help Center Closed | Zendesk'
+TakeOver.Azure: '<title>Microsoft Azure Web App - Error 404'
 Unclaimed.StatusPage: '<html><body>You are being <a href="https://www.statuspage.io">redirected'
 TakeOver.SimpleBooklet: "We can't find this <a href="https://simplebooklet.com"
 TakeOver: '"There is no app configured at that hostname'
 TakeOver: 'For root URLs (like http://example.com/) you must provide an index.html file'
 TakeOver: "There's nothing here"
-TakeOver: '<title>No such app</title>'
+TakeOver: '<title>No such app'
 TakeOver: "There's nothing here."
 TakeOver: "Whatever you were looking for doesn't currently exist at this address."
 TakeOver: 'this shop is currently unavailable.'
@@ -154,7 +167,7 @@ TakeOver: 'If you are an Acquia Cloud customer and expect to see your site at th
 TakeOver: 'Please check that this domain has been added to a service'
 TakeOver: 'The gods are wise'
 TakeOver: 'but do not know of the site which you seek'
-TakeOver: '<title>Help Center Closed | Zendesk</title>'
+TakeOver: '<title>Help Center Closed | Zendesk'
 TakeOver: 'This UserVoice subdomain is currently available!'
 TakeOver: 'The thing you were looking for is no longer here'
 TakeOver: 'redirect.feedpress.me'
@@ -206,9 +219,9 @@ TakeOver: 'No settings were found for this company'
 TakeOver: 'Heroku | No such app'
 TakeOver: 'couldn&rsquo;t find the status page'
 TakeOver: 'No Such Accoun'
-TakeOver: '<title>Hosted Status Pages for Your Company</title>'
+TakeOver: '<title>Hosted Status Pages for Your Company'
 TakeOver: 'data-html-name="Header Logo Link'
-TakeOver: "<title>Oops - We didn't find your site.</title>"
+TakeOver: "<title>Oops - We didn't find your site."
 TakeOver: 'class="MarketplaceHeader__tictailLogo'
 TakeOver: "Whatever you were looking for doesn't currently exist at this address"
 TakeOver: 'Domain mapping upgrade for this domain not found'
