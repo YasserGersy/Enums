@@ -1,8 +1,7 @@
-logo.gif
+portal_inc.lua
 http_auth.html
 user_dialog.html
 localization_inc.lua
-portal_inc.lua
 include
 nostcaccess.html
 ask.html
@@ -73,3 +72,4 @@ logon_redirect.html
 logout.html
 logon.html
 test_chargen
+logo.gif
