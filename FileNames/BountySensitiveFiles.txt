@@ -1,0 +1,9 @@
+/wp-config.php.old
+/wp-config.php
+/config.py
+/BES_MTN/settings.py
+/metrics/
+/app_dev.php
+/_profiler
+/app_dev.php/_profiler
+/.gitlab-ci.yml
