@@ -7,3 +7,4 @@
 /_profiler
 /app_dev.php/_profiler
 /.gitlab-ci.yml
+/.svn/entries 
