@@ -1,3 +1,14 @@
+Moodle: 'Set-Cookie: MoodleSession'
+Moodle: 'Powered by <a href="https://moodle.com">'
+Moodle: 'X-Redirect-By: Moodle'
+Sophos: X-Seen-By
+Express : 'Set-Cookie: connect.sid'
+Akamai: x-akamai
+Firebase: '"href="https://firebase.google.com'
+Pressly: "window.Pressly"
+Pressly: "http://dev.pressly.io"
+Teachable: 'teachableTracker'
+teachablecdn: teachablecdn.com
 Mongodb-OID: '"$oid"'
 Pluto: '<title>Pluto Portal</title>'
 NetGear: 'WWW-Authenticate: Basic realm="NETGEAR'
@@ -68,7 +79,8 @@ Apache-Tomcat: 'Apache Tomcat'
 PHP: 'X-Powered-By: PHP'
 PHP: 'PHPSESSID'
 MESBOOK: 'LOGO_MESBOOK'
-Sitecore: Sitecore
+Sitecore: 'Location: /sitecore/service/'
+Sitecore: 'href="/sitecore/login/default.css'
 Fortinet: 'top.location="/remote/login'
 KubeView: <title>KubeView
 Grafana: <title>Grafana
@@ -137,11 +149,10 @@ Shopify: X-Shopify-Stage
 Amz: x-amz
 EnvoyProxy: x-envoy-upstream-service-time
 GoogleCloud: X-Goog-Generation
-ReactApp: '/react/app.js'
+React: '/react/app.js'
 HighLight: 'highlight.js'
 jquery: 'jquery.min.js'
 InterCom: 'window.intercomSettings'
-Tenable: teachablecdn.com
 WebLogic: 'Server: WebLogic Server'
 Django: 'Log in | Django site admin'
 Gitlab: 'X-Gitlab'
