@@ -1,0 +1,5 @@
+profiles
+laravel.log
+logs/laravel.log
+storage/logs/laravel.log
+../.env
