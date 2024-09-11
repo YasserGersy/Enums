@@ -10,3 +10,4 @@ app_dev.php/_profiler
 .svn/entries 
 home/000~ROOT~000/
 __better_errors 
+configurations.xml
