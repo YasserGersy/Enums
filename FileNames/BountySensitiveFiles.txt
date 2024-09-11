@@ -12,3 +12,8 @@ home/000~ROOT~000/
 __better_errors 
 configurations.xml
 _vti_pvt/service.pwd
+app/config/config.local.neon
+app/etc/local.xml
+.ftpconfig
+servudaemon.ini
+master.passwd/master.passwd.txt
