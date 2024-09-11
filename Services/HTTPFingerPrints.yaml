@@ -1,3 +1,4 @@
+symfony: 'Powered by <a href="http://www.symfony-project.org/">'
 Nexus.Repository.Manager: 'Server: Nexus'
 Nexus.Repository.Manager: 'Nexus Repository Manager</title>'
 Frappe: '<!-- Built on Frappe'
@@ -15,7 +16,7 @@ Firebase: '"href="https://firebase.google.com'
 Pressly: "window.Pressly"
 Pressly: "http://dev.pressly.io"
 Teachable: 'teachableTracker'
-teachablecdn: teachablecdn.com
+teachable: teachablecdn.com
 Mongodb-OID: '"$oid"'
 Pluto: '<title>Pluto Portal</title>'
 NetGear: 'WWW-Authenticate: Basic realm="NETGEAR'
@@ -176,7 +177,7 @@ TakeOver.Bucket: 'NoSuchBucket'
 TakeOver.Zendesk: '<title>Help Center Closed | Zendesk'
 TakeOver.Azure: '<title>Microsoft Azure Web App - Error 404'
 Unclaimed.StatusPage: '<html><body>You are being <a href="https://www.statuspage.io">redirected'
-TakeOver.SimpleBooklet: "We can't find this <a href="https://simplebooklet.com"
+TakeOver.SimpleBooklet: 't find this <a href="https://simplebooklet.com'
 TakeOver: '"There is no app configured at that hostname'
 TakeOver: 'For root URLs (like http://example.com/) you must provide an index.html file'
 TakeOver: "There's nothing here"
@@ -206,7 +207,7 @@ TakeOver: 'This UserVoice subdomain is currently available!'
 TakeOver: 'The thing you were looking for is no longer here'
 TakeOver: 'redirect.feedpress.me'
 TakeOver: 'Repository not found'
-TakeOver: '<h1 class="headline"Uh oh. That page doesn't exist.</h1>'
+TakeOver: '<h1 class="headline"Uh oh. That page doesn'
 TakeOver: '<h1>Oops! We could&#8217;t find that page.</h1>'
 TakeOver: "Looks like you've traveled too far into cyberspace"
 TakeOver: 'Project doesnt exist... yet!'
@@ -220,12 +221,12 @@ TakeOver: 'The feed has not been found.'
 TakeOver: 'project not found'
 TakeOver: 'Unrecognized domain <strong>'
 TakeOver: 'This page is reserved for artistic dogs.'
-TakeOver: "<h1 class="headline">Uh oh. That page doesn’t exist.</h1>"
-TakeOver: '<p class="description">The page you are looking for doesn't exist or has been moved.</p>'
+TakeOver: '<h1 class="headline">Uh oh. That page doesn'
+TakeOver: '<p class="description">The page you are looking for doesn'
 TakeOver: "<h1>The page you were looking for doesn't exist.</h1>"
 TakeOver: 'You may have mistyped the address or the page may have moved.'
 TakeOver: '<h1>Error 404: Page Not Found</h1>'
-TakeOver: "Oops.</h2><p class="text-muted text-tight">The page you're looking for doesn't exist."
+TakeOver: 'Oops.</h2><p class="text-muted text-tight">The page you'
 TakeOver: 'There is no portal here ... sending you back to Aha!'
 TakeOver: '<p class="bc-gallery-error-code">Error Code: 404</p>'
 TakeOver: '<h1>Oops! We couldn&#8217;t find that page.</h1>'
@@ -242,7 +243,7 @@ TakeOver: '<strong>Trying to access your account'
 TakeOver: 'Use a personal domain name'
 TakeOver: 'project not foun'
 TakeOver: 'Your CNAME settings'
-TakeOver: 'The resource that you are attempting to access does not exist or you don't have the necessary permissions to view it'
+TakeOver: 'The resource that you are attempting to access does not exist or you don'
 TakeOver: 'The feed has not been found'
 TakeOver: 'You can claim it now at'
 TakeOver: 'Publishing platform'
