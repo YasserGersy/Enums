@@ -22,3 +22,6 @@ local_settings.py
 settings.py
 wp-config.zip
 .vscode/sftp.json
+config/const.DB.php.bak
+.bash_history
+docker-compose.yml
