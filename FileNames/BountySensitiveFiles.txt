@@ -19,3 +19,4 @@ servudaemon.ini
 master.passwd/master.passwd.txt
 app_dev.php/_profiler/open?file=app/config/parameters.yml
 local_settings.py
+settings.py
