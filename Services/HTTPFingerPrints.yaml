@@ -66,7 +66,10 @@ CheckPoint: '<title>Check Point SSL Network Extender'
 CheckPoint: 'skin/chkp/skin1/index.css'
 CheckPoint: 'Server: Check Point SVN foundation'
 CheckPoint: 'checkpoint.com/products/ssl_network_ext'
-Ivanti Connect Secure: <title>Ivanti Connect Secure
+Ivanti Connect Secure: <title>Ivanti&#32;Connect
+IvantiConnectSecure: <title>Ivanti Connect Secure
+IvantiConnectSecure: 'Location: /dana-na/auth/'
+IvantiConnectSecure: 'welcome.cgi?p=logo'
 GoogleDriveIntegration: 'https://www.googleapis.com/auth/drive'
 CDATA-Arc: '<title>CData Arc'
 CData-Connect: '<title>CData Connect'
@@ -92,6 +95,8 @@ MESBOOK: 'LOGO_MESBOOK'
 Sitecore: 'Location: /sitecore/service/'
 Sitecore: 'href="/sitecore/login/default.css'
 Fortinet: 'top.location="/remote/login'
+Fortinet: 'ftnt-fortinet-grid'
+Fortinet: 'Server: xxxxxxxx-xxxxx'
 KubeView: <title>KubeView
 Grafana: <title>Grafana
 Java-Serialization: 'application/x-java-serialized-object'
@@ -167,7 +172,6 @@ WebLogic: 'Server: WebLogic Server'
 Django: 'Log in | Django site admin'
 Gitlab: 'X-Gitlab'
 Fortinet: 'try_ftm_push()'
-Ivanti Connect Secure: <title>Ivanti&#32;Connect
 Unclaimed.Heroku: 'herokucdn.com/error-pages/no-such-app.html'
 TakeOver.Wishpond: 'https://www.wishpond.com/404?campaign=true'
 TakeOver.Createsend: 'Double check the URL or <a href="mailto:help@createsend.com'
