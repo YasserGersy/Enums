@@ -9,14 +9,14 @@ Laravel: '<title>Laravel'
 Moodle: 'Set-Cookie: MoodleSession'
 Moodle: 'Powered by <a href="https://moodle.com">'
 Moodle: 'X-Redirect-By: Moodle'
-Sophos: X-Seen-By
-Express : 'Set-Cookie: connect.sid'
-Akamai: x-akamai
+Sophos: 'X-Seen-By'
+Express: 'Set-Cookie: connect.sid'
+Akamai: 'x-akamai'
 Firebase: '"href="https://firebase.google.com'
 Pressly: "window.Pressly"
 Pressly: "http://dev.pressly.io"
 Teachable: 'teachableTracker'
-teachable: teachablecdn.com
+teachable: 'teachablecdn.com'
 Mongodb-OID: '"$oid"'
 Pluto: '<title>Pluto Portal</title>'
 NetGear: 'WWW-Authenticate: Basic realm="NETGEAR'
@@ -66,8 +66,8 @@ CheckPoint: '<title>Check Point SSL Network Extender'
 CheckPoint: 'skin/chkp/skin1/index.css'
 CheckPoint: 'Server: Check Point SVN foundation'
 CheckPoint: 'checkpoint.com/products/ssl_network_ext'
-Ivanti Connect Secure: <title>Ivanti&#32;Connect
-IvantiConnectSecure: <title>Ivanti Connect Secure
+IvantiConnectSecure: '<title>Ivanti&#32;Connect'
+IvantiConnectSecure: '<title>Ivanti Connect Secure'
 IvantiConnectSecure: 'Location: /dana-na/auth/'
 IvantiConnectSecure: 'welcome.cgi?p=logo'
 GoogleDriveIntegration: 'https://www.googleapis.com/auth/drive'
@@ -97,73 +97,74 @@ Sitecore: 'href="/sitecore/login/default.css'
 Fortinet: 'top.location="/remote/login'
 Fortinet: 'ftnt-fortinet-grid'
 Fortinet: 'Server: xxxxxxxx-xxxxx'
-KubeView: <title>KubeView
-Grafana: <title>Grafana
+Fortinet: 'try_ftm_push()'
+KubeView: '<title>KubeView'
+Grafana: '<title>Grafana'
 Java-Serialization: 'application/x-java-serialized-object'
 Java-Serialization: 'javax.faces.ViewState'
 Ruby-on-Rails: 'name="csrf-param" content="authenticity_token"'
 Ruby-on-Rails: 'content="authenticity_token" name="csrf-param"'
 JMX: 'JBoss JMX Console'
-JBoss: JBoss
+JBoss: 'JBoss'
 SolarWinds: '/Orion/Login.aspx'
 SolarWinds: 'SolarWinds Orion'
 SolarWinds: 'SolarWinds-Logo.svg'
 SolarWinds: 'SolarWinds Worldwide'
-RabbitMQ: <title>RabbitMQ Management
-Jira: <title>Manage Filters - Jira
-Jenkins: <title>Dashboard [Jenkins]
+RabbitMQ: '<title>RabbitMQ Management'
+Jira: '<meta name="application-name" content="JIRA" data-name="jira"'
+Jira: '<title>Manage Filters - Jira'
+Jenkins: '<title>Dashboard [Jenkins]'
 NextJs: '/_next/static/'
 AmazonS3: 'Server: AmazonS3'
-Jenkins: X-Jenkins
-Zendesk: Zendesk
+Jenkins: 'X-Jenkins'
+Zendesk: 'Zendesk'
 FrontPage: '<title> FrontPage Configuration Information' 
-Sidekiq: <title>Sidekiq
-Swagger-UI: <title>Swagger UI
+Sidekiq: '<title>Sidekiq'
+Swagger-UI: '<title>Swagger UI'
 Pluto Portal: '<title>Pluto Portal'
 RocketMq: '<title>RocketMq-console'
 Cortex: '<title>Cortex Ingester Stats'
-SICOM: <title>SICOM
+SICOM: '<title>SICOM'
 ActiveMQ: '<title>Apache ActiveMQ'
 Cortex: '<title>Cortex'
-FreshDesk: <link class="ltr" rel="stylesheet" href="https://fassets.freshdesk.com/production/a/assets
-Jira: <meta name="application-name" content="JIRA" data-name="jira"
+FreshDesk: '<link class="ltr" rel="stylesheet" href="https://fassets.freshdesk.com/production/a/assets'
 ActiveMQ: '<title>Apache ActiveMQ'
-ActiveMQ: Apache ActiveMQ!
-BucketTakeOver: NoSuchBucket
-ListableBucket: <ListAllMyBucketResult
-ListableBucket: <ListBucketResult
+ActiveMQ: 'Apache ActiveMQ!'
+BucketTakeOver: 'NoSuchBucket'
+ListableBucket: '<ListAllMyBucketResult'
+ListableBucket: '<ListBucketResult'
 Wordpress: '<meta name="generator" content="WordPress'
-x-amz-meta-s3cmd-attrs: x-amz-meta-s3cmd-attrs
-OpenCat: opencatsisopen
-Django admin panel: Log in | Django site admin
-RocketMq-console: <title>RocketMq-console
-Critix: _ctxstxt_NetscalerAAA
-Critix: _ctxstxt_NetscalerGateway
-Pluto: <title>Pluto Portal
+x-amz-meta-s3cmd-attrs: 'x-amz-meta-s3cmd-attrs'
+OpenCat: 'opencatsisopen'
+Django admin panel: 'Log in | Django site admin'
+RocketMq-console: '<title>RocketMq-console'
+Critix: '_ctxstxt_NetscalerAAA'
+Critix: '_ctxstxt_NetscalerGateway'
+Pluto: '<title>Pluto Portal'
 Grafana: '<title>Grafana'
-RoundCube: roundcube_sessid
-RoundCube: Roundcube Webmail
+RoundCube: 'roundcube_sessid'
+RoundCube: 'Roundcube Webmail'
 Drupal: 'X-Generator: Drupal'
-DirectoryListing: <title>Index of
-Telerik.Web.Ui: Telerik.Web.Ui
+DirectoryListing: '<title>Index of'
+Telerik.Web.Ui: 'Telerik.Web.Ui'
 Telerik.Progress: '/lib/progress/Telerik'
 Telerik.ReportServer: 'Telerik Report Server'
 Telerik.ReportServer: 'window.telerikReportServer'
-Trello: X-Trello-Version
-Trello: X-Trello-Environment
-tarantool: tarantool
-Rack-cache: x-rack-cache
-GoogleSignInClientId: googleSignInClientId
-GoogleSignInClientId: googleClientID
+Trello: 'X-Trello-Version'
+Trello: 'X-Trello-Environment'
+tarantool: 'tarantool'
+Rack-cache: 'x-rack-cache'
+GoogleSignInClientId: 'googleSignInClientId'
+GoogleSignInClientId: 'googleClientID'
 IIS: 'Internet information services'
 Zendesk: 'X-Zendesk-Origin-Server'
-squarespace: squarespace
-StatusPage: X-StatusPage-Version
-Discourse: X-Discourse-Route
-Shopify: X-Shopify-Stage
-Amz: x-amz
-EnvoyProxy: x-envoy-upstream-service-time
-GoogleCloud: X-Goog-Generation
+squarespace: 'squarespace'
+StatusPage: 'X-StatusPage-Version'
+Discourse: 'X-Discourse-Route'
+Shopify: 'X-Shopify-Stage'
+Amz: 'x-amz'
+EnvoyProxy: 'x-envoy-upstream-service-time'
+GoogleCloud: 'X-Goog-Generation'
 React: '/react/app.js'
 HighLight: 'highlight.js'
 jquery: 'jquery.min.js'
@@ -171,7 +172,6 @@ InterCom: 'window.intercomSettings'
 WebLogic: 'Server: WebLogic Server'
 Django: 'Log in | Django site admin'
 Gitlab: 'X-Gitlab'
-Fortinet: 'try_ftm_push()'
 Unclaimed.Heroku: 'herokucdn.com/error-pages/no-such-app.html'
 TakeOver.Wishpond: 'https://www.wishpond.com/404?campaign=true'
 TakeOver.Createsend: 'Double check the URL or <a href="mailto:help@createsend.com'
@@ -182,6 +182,11 @@ TakeOver.Zendesk: '<title>Help Center Closed | Zendesk'
 TakeOver.Azure: '<title>Microsoft Azure Web App - Error 404'
 Unclaimed.StatusPage: '<html><body>You are being <a href="https://www.statuspage.io">redirected'
 TakeOver.SimpleBooklet: 't find this <a href="https://simplebooklet.com'
+TakeOver.tictail: 'to target URL: <a href="https://tictail.com'
+TakeOver.statuspage: 'You are being <a href="https://www.statuspage.io">redirected'
+TakeOver.Zendesk: '<title>Help Center Closed | Zendesk'
+Unclaimed.Heroku: 'Heroku | No such app'
+TakeOver.tictail: 'class="MarketplaceHeader__tictailLogo'
 TakeOver: '"There is no app configured at that hostname'
 TakeOver: 'For root URLs (like http://example.com/) you must provide an index.html file'
 TakeOver: "There's nothing here"
@@ -193,12 +198,10 @@ TakeOver: 'Only one step left!'
 TakeOver: "You've Discovered A Missing Link. Our Apologies!"
 TakeOver: 'Please try again or try Desk.com free for 14 days.'
 TakeOver: 'Building a brand of your own?'
-TakeOver.tictail: 'to target URL: <a href="https://tictail.com'
 TakeOver: 'Start selling on Tictail.'
 TakeOver: 'Double check the URL'
 TakeOver: '<strong>Trying to access your account?</strong>'
 TakeOver: 'Better Status Communication'
-TakeOver.statuspage: 'You are being <a href="https://www.statuspage.io">redirected'
 TakeOver: 'The specified bucket does not exist' 
 TakeOver: 'The page you have requested does not exist'
 TakeOver: 'Domain is not configured'
@@ -206,7 +209,6 @@ TakeOver: 'If you are an Acquia Cloud customer and expect to see your site at th
 TakeOver: 'Please check that this domain has been added to a service'
 TakeOver: 'The gods are wise'
 TakeOver: 'but do not know of the site which you seek'
-TakeOver.Zendesk: '<title>Help Center Closed | Zendesk'
 TakeOver: 'This UserVoice subdomain is currently available!'
 TakeOver: 'The thing you were looking for is no longer here'
 TakeOver: 'redirect.feedpress.me'
@@ -255,13 +257,11 @@ TakeOver: "You're Almost There"
 TakeOver: 'this shop is currently unavailable'
 TakeOver: "There's nothing here"
 TakeOver: 'No settings were found for this company'
-Unclaimed.Heroku: 'Heroku | No such app'
 TakeOver: 'couldn&rsquo;t find the status page'
 TakeOver: 'No Such Accoun'
 TakeOver: '<title>Hosted Status Pages for Your Company'
 TakeOver: 'data-html-name="Header Logo Link'
 TakeOver: "<title>Oops - We didn't find your site."
-TakeOver.tictail: 'class="MarketplaceHeader__tictailLogo'
 TakeOver: "Whatever you were looking for doesn't currently exist at this address"
 TakeOver: 'Domain mapping upgrade for this domain not found'
 TakeOver: 'but is not configured for an account on our platform'
