@@ -1,0 +1,11 @@
+debug/pprof/
+allocs?debug=1
+block?debug=1
+cmdline
+goroutine?debug=1
+heap?debug=1
+mutex?debug=1
+profile
+threadcreate?debug=1
+trace
+goroutine?debug=2
