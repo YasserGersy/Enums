@@ -25,3 +25,4 @@ wp-config.zip
 config/const.DB.php.bak
 .bash_history
 docker-compose.yml
+debug/pprof/
