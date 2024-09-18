@@ -24,6 +24,7 @@ wp-config.zip
 config/const.DB.php.bak
 wp-config.php.old
 wp-config.php
+.env
 app_dev.php
 .bash_history
 .ftpconfig
