@@ -27,3 +27,6 @@ wp-config.php
 app_dev.php
 .bash_history
 .ftpconfig
+auth/jwt/register
+auth-demo/register/classic
+auth-demo/register/modern
