@@ -1,0 +1,14 @@
+aspx
+asmx
+ashx
+ascx
+asax
+asa
+asp
+cdx
+idc
+shtm
+shtml
+stm
+jsl
+vb
