@@ -4,13 +4,16 @@ s3.synologyc2.net
 storage.yandexcloud.net
 .cloud-object-storage.appdomain.cloud
 .cloudflarestorage.com
+.r2.dev
+.contabostorage.com
 .vultrobjects.com
 .aliyuncs.com
 .backblazeb2.com
-.blob.Core.WindowS.net
+.blob.Core.Windows.net
 .digitaloceanspaces.com
 .wasabisys.com
 .linodeobjects.com
 .firebaseio.com
 .amazonaws.com
 .oraclecloud.com
+storage.googleapis.com
