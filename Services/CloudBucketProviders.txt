@@ -9,7 +9,7 @@ storage.yandexcloud.net
 .vultrobjects.com
 .aliyuncs.com
 .backblazeb2.com
-.blob.Core.Windows.net
+.core.windows.net
 .digitaloceanspaces.com
 .wasabisys.com
 .linodeobjects.com
