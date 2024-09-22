@@ -1,3 +1,5 @@
+health
+healthcheck
 auditevents
 auditLog
 autoconfig
@@ -13,8 +15,6 @@ events
 exportRegisteredServices
 features
 flyway
-health
-healthcheck
 heapdump
 httptrace
 hystrix.stream
