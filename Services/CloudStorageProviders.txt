@@ -9,7 +9,7 @@ storage.yandexcloud.net
 .vultrobjects.com
 .aliyuncs.com
 .backblazeb2.com
-.blob.Core.Windows.net
+.blob.core.windows.net
 .digitaloceanspaces.com
 .wasabisys.com
 .linodeobjects.com
@@ -23,3 +23,11 @@ sharepoint.com
 dropbox.com
 box.com
 docs.google.com
+blob.core.windows.net
+file.core.windows.net
+queue.core.windows.net
+table.core.windows.net
+scm.azurewebsites.net
+vault.azure.net
+azurewebsites.net
+database.windows.net
