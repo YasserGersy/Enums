@@ -31,3 +31,4 @@ app_dev.php
 auth/jwt/register
 auth-demo/register/classic
 auth-demo/register/modern
+.svn/wc.db
