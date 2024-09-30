@@ -4,7 +4,6 @@ User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) 
 Connection: close
 Content-Length: 1126
 Content-Type: multipart/form-data; boundary=5f02b65945d644d6a32847ab130e9586
-Accept-Encoding: gzip, deflate
 
 --5f02b65945d644d6a32847ab130e9586
 Content-Disposition: form-data; name="page"
