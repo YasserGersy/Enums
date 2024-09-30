@@ -6,7 +6,6 @@ Content-Length: 2550
 Accept: */*
 Accept-Language: en
 Content-Type: application/xml
-Accept-Encoding: gzip
 
 <map>
   <entry>
