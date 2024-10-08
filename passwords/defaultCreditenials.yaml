@@ -10,3 +10,5 @@ Tomcat:
     - 'admin:'
 remedysso:
   - 'Admin:RSSO#Admin#'
+Kinetic:
+  - 'admin:admin'
