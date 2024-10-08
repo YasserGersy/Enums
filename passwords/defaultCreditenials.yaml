@@ -12,6 +12,6 @@ Bmc-Remedy-sso:
   - 'admin:RSSO#Admin#'
 Kinetic:
   - 'admin:admin'
-Geoportal:
+Esri-arcgis-server:
   - 'admin:gptadmin'
   - 'gptadmin:gptadmin'
