@@ -8,3 +8,5 @@ Tomcat:
     - 'tomcat:tomcat'
     - 'tomcat:admin'
     - 'admin:'
+remedysso:
+  - 'Admin:RSSO#Admin#'
