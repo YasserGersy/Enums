@@ -1,0 +1,10 @@
+Evertz: 
+  - 'customer:customer'
+Tomcat:
+    - 'admin:s3cr3t'
+    - 'admin:tomcat'
+    - 'tomcat:s3cr3t'
+    - 'admin:admin'
+    - 'tomcat:tomcat'
+    - 'tomcat:admin'
+    - 'admin:'
