@@ -1,6 +1,6 @@
-Evertz: 
+Evertz-Caption-Server: 
   - 'customer:customer'
-Tomcat:
+Apache-Tomcat-Manager:
     - 'admin:s3cr3t'
     - 'admin:tomcat'
     - 'tomcat:s3cr3t'
@@ -8,10 +8,10 @@ Tomcat:
     - 'tomcat:tomcat'
     - 'tomcat:admin'
     - 'admin:'
-Remedysso:
+Bmc-Remedy-sso:
   - 'admin:RSSO#Admin#'
 Kinetic:
   - 'admin:admin'
-Geoporta:
+Geoportal:
   - 'admin:gptadmin'
   - 'gptadmin:gptadmin'
