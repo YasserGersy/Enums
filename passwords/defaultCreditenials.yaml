@@ -8,7 +8,10 @@ Tomcat:
     - 'tomcat:tomcat'
     - 'tomcat:admin'
     - 'admin:'
-remedysso:
+Remedysso:
   - 'Admin:RSSO#Admin#'
 Kinetic:
   - 'admin:admin'
+Geoporta:
+  - 'admin:gptadmin'
+  - 'gptadmin:gptadmin'
