@@ -15,3 +15,5 @@ Kinetic:
 Esri-arcgis-server:
   - 'admin:gptadmin'
   - 'gptadmin:gptadmin'
+Nagios:
+  - 'nagiosadmin:nagiosadmin'
