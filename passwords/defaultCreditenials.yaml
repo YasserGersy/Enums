@@ -18,3 +18,5 @@ Nagios:
   - 'nagiosadmin:nagiosadmin'
 Kinetic:
   - 'admin:admin'
+hitachi-Pentaho-Business-Analytics:
+  - 'admin:password'
