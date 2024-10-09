@@ -10,10 +10,11 @@ Apache-Tomcat-Manager:
     - 'admin:'
 Bmc-Remedy-sso:
   - 'admin:RSSO#Admin#'
-Kinetic:
-  - 'admin:admin'
 Esri-arcgis-server:
   - 'admin:gptadmin'
   - 'gptadmin:gptadmin'
+  
 Nagios:
   - 'nagiosadmin:nagiosadmin'
+Kinetic:
+  - 'admin:admin'
