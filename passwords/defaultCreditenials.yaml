@@ -13,7 +13,7 @@ Bmc-Remedy-sso:
 Esri-arcgis-server:
   - 'admin:gptadmin'
   - 'gptadmin:gptadmin'
-Nexus-Repository-manager:
+Sonatype-Nexus-Repository-manager:
   - 'admin:admin123'
   - 'anonymous:anonymous'
 Nagios:
