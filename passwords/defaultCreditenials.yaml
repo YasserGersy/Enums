@@ -22,3 +22,5 @@ Kinetic:
   - 'admin:admin'
 hitachi-Pentaho-Business-Analytics:
   - 'admin:password'
+Splunk:
+  - 'admin:changeme'
