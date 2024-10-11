@@ -2,6 +2,10 @@ Evertz-Caption-Server:
   - 'customer:customer'
 Cisco-telepresence:
   - 'admin:cisco'
+  - 'admin:'
+  - 'admin:admin:
+  - 'cisco:cisco'
+  - 'root:cisco'
 Apache-Tomcat-Manager:
     - 'admin:s3cr3t'
     - 'admin:tomcat'
