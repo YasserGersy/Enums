@@ -1,8 +1,8 @@
 Evertz-Caption-Server: 
   - 'customer:customer'
 Cisco-telepresence:
-  - 'admin:cisco'
   - 'admin:'
+  - 'admin:cisco'
   - 'admin:admin:
   - 'cisco:cisco'
   - 'root:cisco'
