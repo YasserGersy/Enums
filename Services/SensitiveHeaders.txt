@@ -1,0 +1,1 @@
+x-amz-meta-s3cmd-attrs
