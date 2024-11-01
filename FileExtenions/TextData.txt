@@ -1,0 +1,16 @@
+json
+txt
+xml
+csv
+yaml
+yml
+md
+log
+ini
+conf
+config
+tsv
+ndjson
+rdf
+rss
+atom
