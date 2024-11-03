@@ -70,3 +70,8 @@ xhtml
 xml
 yaml
 yml
+ascx
+asax
+asa
+shtm
+vb
