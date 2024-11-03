@@ -9,6 +9,9 @@ asp
 aspx
 ashx
 asmx
+ascx
+asax
+asa
 axd
 py
 pl
@@ -42,8 +45,10 @@ mjs
 jsbundle
 jsdbx
 shtml
+shtm
 stm
 page
+vb
 pyc
 pyo
 gsp
