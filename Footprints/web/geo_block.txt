@@ -1,1 +1,11 @@
 distribution is configured to block access from your country
+Your location is restricted from accessing this resource
+This service is not available in your region
+this content is unavailable in your country
+Geographic restriction: Access denied
+Error: Content is restricted based on your geographic location
+Geo-blocked access: You cannot view this page from your current location
+This page is unavailable due to regional restrictions
+Your IP address is blocked from accessing this site
+requested resource is not accessible in your region
+service is temporarily unavailable in your country
