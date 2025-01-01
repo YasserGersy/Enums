@@ -32,3 +32,5 @@ auth/jwt/register
 auth-demo/register/classic
 auth-demo/register/modern
 .svn/wc.db
+app/tmp/healthcheck.json
+fxa-rp-events
