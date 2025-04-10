@@ -8,3 +8,16 @@
 /+CSCOE+/message.html
 /invalid<%0d%0afound.js
 /sn/..;//examples/jsp/index.html
+/js/embed.js
+/auth/login_monday/email_password
+/support/theme.css
+/login
+/login/index
+/manifest.json
+/google_search.html
+/app/UserHome
+/s/
+/sn/..;//examples/servlets/index.html
+/ajax/gw-light.php
+/assets/cdn/portal/vendor.js
+/login/
