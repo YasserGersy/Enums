@@ -1,3 +1,5 @@
+/?123
+/
 /indeednotfound.js
 /sitemap.xml
 /robots.txt
@@ -5,3 +7,4 @@
 /index.php
 /+CSCOE+/message.html
 /invalid<%0d%0afound.js
+/sn/..;//examples/jsp/index.html
