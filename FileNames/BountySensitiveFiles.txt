@@ -1,3 +1,4 @@
+wp-config.php2
 .gitlab-ci.yml
 debug/pprof/
 server.js
