@@ -11,6 +11,7 @@ app_dev.php/_profiler
 .svn/entries
 home/000~ROOT~000/
 __better_errors
+_wpeprivate/config.json
 _vti_pvt/service.pwd
 app/config/config.local.neon
 configurations.xml
